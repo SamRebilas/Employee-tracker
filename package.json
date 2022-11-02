@@ -1,7 +1,26 @@
 {
   "dependencies": {
+    "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
     "mysql": "^2.18.1",
     "mysql2": "^2.3.3"
-  }
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "employee-tracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamRebilas/Employee-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamRebilas/Employee-tracker/issues"
+  },
+  "homepage": "https://github.com/SamRebilas/Employee-tracker#readme"
 }
